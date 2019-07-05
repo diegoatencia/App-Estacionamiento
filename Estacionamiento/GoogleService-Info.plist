@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>305774547238-rhbq7l0cpmr1087hcfs1vc02c3of5su4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.305774547238-rhbq7l0cpmr1087hcfs1vc02c3of5su4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDlqj0UmUR81CFlbztK-OKLKmP1ReqMEZ4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>305774547238</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example-diegoatencia.Estacionamiento</string>
+	<key>PROJECT_ID</key>
+	<string>estacionamiento-cdbfa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>estacionamiento-cdbfa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:305774547238:ios:9740072609d38858</string>
+	<key>DATABASE_URL</key>
+	<string>https://estacionamiento-cdbfa.firebaseio.com</string>
+</dict>
+</plist>
